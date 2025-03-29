@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/iljs/openssl-apple",
       "state" : {
-        "revision" : "89ec9bf682025c5905475eac8670dc364f66a82a",
-        "version" : "3.4.302"
+        "revision" : "ff2ca9b25c685d57733007e0e426947435d6557e",
+        "version" : "3.4.4"
       }
     },
     {
